@@ -3,5 +3,6 @@ layout: post
 title: "Vibrational mode of MAPI"
 date: 2016-05-10
 ---
-Finalmente dovrei essere riuscito a reare una entry
-![Vibrational mode obtained with Phonpy on MAPI](cippo1987.github.io/MAPI_Animation.gif "Animation of MAPI")
+My PhD regarded the study of the mighty MethylAmmonium Lead Iodide, MAPI for friends. A small organic cation trapped in an perovskite cage.
+
+MAPI became famouse mostly because it works (Check here: [NREL CHART](http://www.nrel.gov/ncpv/images/efficiency_chart.jpg))
